@@ -1,7 +1,7 @@
 ### Hi there 👋
 My![Visitor Count](https://profile-counter.glitch.me/yangyubing0723/count.svg)visitor
 
-🔭 This is RAY.[Personal Blog](https://yub.lisok.cn) |
+🔭 This is RAY.      |---| [Personal Blog](https://yub.lisok.cn) |---|
 <!--
 **yangyubing0723/yangyubing0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
