@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=yangyubing0723&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="yangyubing0723's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangyubing0723&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8&hide=HTML,CSS" /> |
 | ------------- | ------------- |
 ## Recently Activities
-
+<!--START_SECTION:waka-->
 ![yangyubing0723's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yangyubing0723&range=all_time&layout=compact)
-
+<!--END_SECTION:waka-->
 ## Contact Me
 
 - Email(Personal): lnhziemann@gmail.com
