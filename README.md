@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 ## Recently Activities
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,7 +92,7 @@ C#                       1 repo              ████████░░░�
 
 
 
- Last Updated on 01/09/2023 14:24:58 UTC
+ Last Updated on 01/09/2023 18:33:29 UTC
 <!--END_SECTION:waka-->
 ## Contact Me
 
