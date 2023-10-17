@@ -65,18 +65,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     38 mins             █████████████████░░░░░░░░   68.48 % 
-Java                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-XML                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-demo-server              56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -90,7 +88,7 @@ C#                       1 repo              ████████░░░�
 
 
 
- Last Updated on 16/10/2023 18:36:22 UTC
+ Last Updated on 17/10/2023 18:35:39 UTC
 <!--END_SECTION:waka-->
 ## Contact Me
 
