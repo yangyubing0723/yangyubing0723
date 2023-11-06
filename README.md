@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 > 📦 50.8 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -88,7 +86,7 @@ C#                       1 repo              ████████░░░�
 
 
 
- Last Updated on 05/11/2023 18:33:20 UTC
+ Last Updated on 06/11/2023 18:34:29 UTC
 <!--END_SECTION:waka-->
 ## Contact Me
 
