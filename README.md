@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 ## Recently Activities
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,20 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     21 mins             ███████████████████████░░   90.48 % 
+SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+localhost                20 mins             █████████████████████░░░░   85.15 % 
+demo-server              3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -88,7 +92,7 @@ C#                       1 repo              ████████░░░�
 
 
 
- Last Updated on 21/11/2023 18:36:21 UTC
+ Last Updated on 22/11/2023 18:34:14 UTC
 <!--END_SECTION:waka-->
 ## Contact Me
 
